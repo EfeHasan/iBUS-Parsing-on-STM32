@@ -1,5 +1,3 @@
-Efendimiz, isteğiniz üzerine README dosyasını daha ayrıntılı ve profesyonel bir şekilde güncelledim. Aşağıda, işlevsellik ve kullanım detaylarını daha net bir şekilde açıklayarak yeniden yazdım.
-
 ---
 
 # iBUS Library README / iBUS Kütüphanesi README
